@@ -1,4 +1,4 @@
-## olá, seja bem vindo 
+## olá, seja bem vindo ao meu perfil!
 - 🔭estou cursando o quinto semestre de Ciências de Dados e Inteligência Artificial no Senai Cimatec 
 - 🌱foco, atualmente, em programação em Python e Java 
 - 👯 estou em busca de me especializar em desenvolvimento de software e cibersegurança 
