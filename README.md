@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 ## 🧩 Skills
 
-<img src="https://skillicons.dev/icons?i=python,java,html,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,html,c,vscode&theme=dark" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## gráfico de atividade
