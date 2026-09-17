@@ -1,8 +1,7 @@
 ## 👩‍💻 Sobre mim
 
 🔭 Cursando o **6º semestre de Ciência de Dados e Inteligência Artificial** no **Senai Cimatec**  
-🌱 Foco atual em **programação com Python e Java**  
-👯 Buscando especialização em **Desenvolvimento de Software** e **Cibersegurança**   
+👯 Buscando especialização em **Arquitetura de Soluções**  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C77DFF&lines=Data+Science+%26+AI+Student;Future+Software+Developer;Cybersecurity+Enthusiast)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 ## 🧩 Skills
