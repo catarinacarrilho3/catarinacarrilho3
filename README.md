@@ -2,7 +2,7 @@
 
 🔭 Cursando o **6º semestre de Ciência de Dados e Inteligência Artificial** no **Senai Cimatec**  
 👯 Buscando especialização em **Arquitetura de Soluções**  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C77DFF&lines=Data+Science+%26+AI+Student;Future+Software+Developer;Cybersecurity+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C77DFF&lines=Data+Science+%26+AI+Student;Future+Software+Developer;cloud Architect)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 ## 🧩 Skills
 
